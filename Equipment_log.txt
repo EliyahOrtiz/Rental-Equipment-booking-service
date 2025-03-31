@@ -1,0 +1,32 @@
+Equipment ID: 2
+Rental Date: 2025-03-03
+Return Date: 2025-03-17
+
+Equipment ID: 2
+Rental Date: 2025-03-04
+Return Date: 2025-03-10
+
+Equipment ID: 3
+Rental Date: 2025-03-10
+Return Date: 2025-03-18
+
+Equipment ID: 1
+Rental Date: 2025-03-11
+Return Date: 2025-03-25
+
+Equipment ID: 1
+Rental Date: 2025-03-01
+Return Date: 2025-03-31
+
+Equipment ID: 2
+Rental Date: 2025-03-01
+Return Date: 2025-03-29
+
+Equipment ID: 1
+Rental Date: 2025-03-31
+Return Date: 2025-03-16
+
+Equipment ID: 3
+Rental Date: 2025-03-12
+Return Date: 2025-03-26
+
